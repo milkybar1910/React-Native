@@ -28,7 +28,7 @@ const App = () => {
       </TouchableOpacity>
 
     <TouchableOpacity onPress={changeBlack}>
-      <Text style={styles.text2}>DARK MODE</Text>
+      <Text style={styles.text2}>Reset</Text>
 
       </TouchableOpacity>
     </View>
