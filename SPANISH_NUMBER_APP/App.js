@@ -27,13 +27,14 @@ const App = () => {
 
     setTimeout(()=>{
       soundObject.play()
-    },100)
+    },1000)
     soundObject.release()
 
   }
 
   return (
     <ScrollView style={styles.container}>
+    
     <Image style={styles.logo} source={require("./assets/logo.png")}/>
     <View style={styles.gridContainer}>
       {soundList.map((sound)=>(
