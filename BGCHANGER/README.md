@@ -1,4 +1,4 @@
-## BACKGROUND CHANGER
+# BACKGROUND CHANGER
 
 ###### THIS APP CONTAINS TWO BUTTONS 
 
@@ -7,7 +7,7 @@
 
 ## HOW TO RUN ON YOUR SYSTEM ?
 
-Clone the repository
+Clone the repository and
 navigate to this folder using ``cd BGCHANGER``
 
 ###### ``npm install``
