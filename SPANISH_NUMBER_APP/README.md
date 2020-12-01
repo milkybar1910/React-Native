@@ -9,7 +9,7 @@ When you click the button , it gives the response as an **audio** which says the
 ## HOW TO RUN ON YOUR SYSTEM ?
 
 Clone the repository and
-navigate to this folder using ``cd BGCHANGER``
+navigate to this folder using ``cd SPANISH_NUMBER_APP``
 
 ###### ``npm install``
 	
