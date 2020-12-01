@@ -11,7 +11,7 @@
 
 ## HOW TO RUN ON YOUR SYSTEM ?
 
-Clone the repository
+Clone the repository and
 navigate to this folder using ``cd CURRENCY_CONVERTOR``
 
 ###### ``npm install``
