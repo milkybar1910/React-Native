@@ -14,7 +14,7 @@ Navigate to this folder using ``cd DICE``
 
 ###### ``npm install``
 	
-	This command install node modules and all the library which are in the ####### package.json 
+	This command install node modules and all the library which are in the package.json 
 	
 	
 ###### ``npx react-native start``
