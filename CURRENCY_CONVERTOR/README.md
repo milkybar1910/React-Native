@@ -16,7 +16,7 @@ navigate to this folder using ``cd CURRENCY_CONVERTOR``
 
 ###### ``npm install``
 	
-	This command install node modules and all the library which are in the ####### package.json 
+	This command install node modules and all the library which are in the package.json 
 	
 	
 ###### ``npx react-native start``
