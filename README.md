@@ -1,6 +1,8 @@
-# React-Native
+# WELCOME 
 
-These are some of my React Native Projects
+## REACT NATIVE ~ CROSS PLATFORM DEVELOPMENT
+
+###LEARN BY BUILDING THINGS 😋
 
 I am a self taught developer. 
 LEARN BY BUILDING THINGS!😋
